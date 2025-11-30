@@ -1,0 +1,16 @@
+So, networking is a topic. Now, the first topic in networking is IP address.
+
+ What is IP address?
+ So, IP address is nothing but a number to identify the device that presents in the given network.
+ For example, in a city, to identify a house, we have a house number, which is similarly like in the given network, to identify the device, we use a number, which is known as the IP address. This IP address is a 32-bit number. This 32-bit number, where it is divided into four 8-bit fields, and each 8-bit value ranges from 0 to 255. And the next one is port number. 
+
+What is port number?
+So, for example, a network is given. In that network, to identify the device, we use the IP address. In that device, I want to identify a specific particular application. To identify that application, we use a number known as the port number. So, this is what is meant by the IP address and the port number.
+
+
+So, IP address classification. 
+IP address is divided into two parts. One part is network part, which is also known as the network prefix. And the other one is the host part. Here, the two parts are classified depending upon the classes. Mainly, there are three classes.
+
+Class A, Class B, Class C. So, when the network part or network prefix ranges from value 1-126, then it belongs to Class A. Here, the host part are second part, third part, and fourth part.
+ And coming to the Class B, the value ranges from 128 to 191. Here, the host parts are third and fourth one. 
+And the next one is Class C. Here, the value ranges from 192 to 223. Here, the host part are fourth part. And the remaining first, second, third are belongs to the network part or network prefix.
